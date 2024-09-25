@@ -6,4 +6,6 @@
 
 📍 [Flavio Copes](https://flaviocopes.com) - Interesting articles about different techs and approaches.
 
+📍 [Syncfusion blog](https://www.syncfusion.com/blogs/category/javascript) - Very interesting high level posts about different techs
+
 ### 🔔 WIP
